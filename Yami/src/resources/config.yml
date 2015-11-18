@@ -1,8 +1,0 @@
-settings:
-  protect:
-    bed-click: true
-  function:
-    fish-fly: true
-    cancel-damage-except-for-lightning: true
-    command-log: true
-    blaze-rod-strike: true
